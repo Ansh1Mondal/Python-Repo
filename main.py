@@ -1,0 +1,3 @@
+import ansh
+
+ansh.welcome()
